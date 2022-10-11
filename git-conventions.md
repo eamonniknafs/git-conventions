@@ -52,7 +52,7 @@ $ git push
 
 ## Branches
 A `branch` is a new/separate version of the main repository. More technically, they are effectivly a pointer to a snapshot of your changes. 
-![[git_branch.svg]]
+![[./images/git_branch.svg]]
 When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch.
 
 To list all branches and see which branch you are on:
@@ -82,7 +82,7 @@ Now that you have learned the basics of Git, let's take a look at how GitHub wil
 ## Pull Requests
 Pull requests (PRs) are a mechanism for a developer to notify team members that they have completed a feature. This lets everybody involved know that they need to review the code and merge it into the `main`  or `dev` branch.
 
-![[pull_request.png]]
+![[./images/pull_request.png]]
 The pull request is more than just a notification—it’s a dedicated forum for discussing the proposed feature. If there are any problems with the changes, teammates can post feedback in the pull request and even tweak the feature by pushing follow-up commits. All of this activity is tracked directly inside of the pull request.
 
 ### How it works
@@ -93,14 +93,14 @@ The pull request is more than just a notification—it’s a dedicated forum for
 5. The project maintainer or a team member merges the feature into the official repository and closes the pull request.
 
 ## Issues
-![[issue.png]]
+![[./images/issue.png]]
 Think of issues like a todo list. An issue allows developers to document and track bugs, features, and other required changes to a repository. You can assign team members to issues so that everyone knows who is working on what. You can also attach a new branch or a pull request to issues, which will allow team members and clients to see what code cooresponds with what issue. You can also use issues as a forum for discussing a proposed feature—similar to a PR—before any code is written.
 
 ## Projects
 GitHub Projects is a new feature that allows for better use of [Agile](https://www.atlassian.com/agile) workflows. In Projects, you can have a birds-eye view of all your issues. This is especially helpful if you have more than a few team members working and issues in progress at once. This feature is similar to Trello; It's also better than Trello (in my opinion), because you can link issues (which can link PRs), so everything is connected and organized. Here is an example of what Projects can look like in both a table and board layout:
 
-![[projects_board.png]]
-![[projects_table.png]]
+![[./images/projects_board.png]]
+![[./images/projects_table.png]]
 > Note: Don't worry there is also a dark mode.
 
 # Best Practices

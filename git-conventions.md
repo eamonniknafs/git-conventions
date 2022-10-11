@@ -28,6 +28,10 @@ A `commit` is essentially a "save point" in your git version history. It is a po
 
 When we `commit`, we should **always** include a **descriptive  commit message** including details on what was changed.
 
+Commit with:
+```shell
+$ git commit -m "commit message"
+```
 ## GitHub & Pushing
 We will now discuss the role of *hosted* version control systems (VCS) like GitHub. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 

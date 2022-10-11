@@ -1,6 +1,25 @@
 # Git & Github
 By Eamon Niknafs
 
+# Table of contents
+
+- [Git & Github](#git--github)
+- [Motivation](#motivation)
+- [Git](#git)
+  - [Initializing a New Repository](#initializing-a-new-repository)
+  - [Staging Files](#staging-files)
+  - [Commits](#commits)
+  - [GitHub & Pushing](#github--pushing)
+  - [Branches](#branches)
+- [GitHub Features](#github-features)
+  - [Pull Requests](#pull-requests)
+  - [Issues](#issues)
+  - [Projects](#projects)
+- [Best Practices](#best-practices)
+  - [Branching](#branching)
+  - [Issues](#issues)
+  - [Projects](#projects)
+- [Sources & Further Reading](#sources--further-reading)
 # Motivation
 The purpose of a version control system (VCS), like Git, is **to allow software teams track changes to the code, while enhancing communication and collaboration between team members**. Version control facilitates a continuous, simple way to develop software.
 

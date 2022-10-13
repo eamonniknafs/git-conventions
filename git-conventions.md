@@ -126,7 +126,6 @@ $ git push
 ## Pull Requests
 Pull requests (PRs) are a mechanism for a developer to notify team members that they have completed a feature. This lets everybody involved know that they need to review the code and merge it into the `main`  or `dev` branch.
 
-![Git Branch](images/git_branch.svg)
 The pull request is more than just a notification—it’s a dedicated forum for discussing the proposed feature. If there are any problems with the changes, teammates can post feedback in the pull request and even tweak the feature by pushing follow-up commits. All of this activity is tracked directly inside of the pull request.
 
 ### How it works

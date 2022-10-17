@@ -73,8 +73,6 @@ $ git commit -m "commit message"
 ## Branches
 A `branch` is a new/separate version of the main repository. More technically, they are effectivly a pointer to a snapshot of your changes. 
 
-![Git Branch](./images/git_branch.svg)
-
 When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch.
 
 To list all branches and see which branch you are on:
@@ -148,6 +146,8 @@ You've made it to the end. You know enough to use Git and GitHub effectively, bu
 ## Branching
 We are back to branching. I cannot stress this enough:
 ***THE `MAIN` BRANCH IS ONLY FOR WORKING, PRODUCTION QUALITY CODE.***
+
+![Git Branch](./images/git_branch.svg)
 
 You should also have a `dev` branch and have `feature` or `bugfix` branches for each issue you are working on.
 

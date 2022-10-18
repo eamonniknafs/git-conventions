@@ -1,9 +1,5 @@
-# Git & GitHub
-By Eamon Niknafs
+# Jump to Section
 
-# Table of contents
-
-- [Git & Github](#git--github)
 - [Motivation](#motivation)
 - [Git](#git)
   - [Initializing a New Repository](#initializing-a-new-repository)
@@ -23,7 +19,6 @@ By Eamon Niknafs
 # Motivation
 The purpose of a version control system (VCS), like Git, is **to allow software teams track changes to the code, while enhancing communication and collaboration between team members**. Version control facilitates a continuous, simple way to develop software.
 
-# Git
 Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 Think of Google Drive's collaboration history, except its much more detailed and gives you far more control.

@@ -1,7 +1,7 @@
 # Jump to Section
 
 - [Motivation](#motivation)
-- [Git](#git)
+- [Git Basics](#git-basics)
   - [Initializing a New Repository](#initializing-a-new-repository)
   - [Staging Files](#staging-files)
   - [Commits](#commits)
@@ -23,6 +23,7 @@ Git is free and open source software for distributed version control: tracking c
 
 Think of Google Drive's collaboration history, except its much more detailed and gives you far more control.
 
+# Git Basics
 We use git because it is a powerful tool that allows us to:
 - Track changes to our code
 - Collaborate with others

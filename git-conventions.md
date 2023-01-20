@@ -168,7 +168,7 @@ If you are using Issues, leave a detailed description on each issue page you cre
 Have fun using Git! If you do it right it will save you a ton of time and trouble, especially when your repo or team grows.
 
 # Sources & Further Reading
-https://about.gitlab.com/topics/version-control/
-https://www.w3schools.com/git/
-https://www.atlassian.com/git/tutorials/syncing
-https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+- https://about.gitlab.com/topics/version-control/
+- https://www.w3schools.com/git/
+- https://www.atlassian.com/git/tutorials/syncing
+- https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67

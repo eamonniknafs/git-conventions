@@ -172,3 +172,6 @@ Have fun using Git! If you do it right it will save you a ton of time and troubl
 - https://www.w3schools.com/git/
 - https://www.atlassian.com/git/tutorials/syncing
 - https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+
+# Author
+Written by [Eamon Niknafs](https://github.com/eamonniknafs)
